@@ -52,7 +52,6 @@
 
 ## 🧠 Research Experience
 
----
 
 ### MaRBLe Excellence Program (July 2023 – July 2024)  
 **Empirical Research for Bachelor Thesis** – Adelaide, Australia & Maastricht, Netherlands  
