@@ -2,10 +2,30 @@
 
 
 <div style="text-align: center;">
-<img src="juli.jpeg" alt="Profile Picture" width="250" style="vertical-align:center; border-radius:50%;">
-📍 Cologne, Germany | 📧 juelide.erdogan@gmail.com  
-📞 +49 17621130156 | 🌐 [LinkedIn](https://www.linkedin.com/in/jülide-erdogan-0a3a0127b)  
+  <img src="juli.jpeg" alt="Profile Picture" width="250" style="vertical-align:center; border-radius:50%;">
 </div>
+
+<div style="text-align: center;">
+  <table style="margin: 0 auto; text-align: left;">
+    <tr>
+      <td>📍</td>
+      <td>Cologne, Germany</td>
+    </tr>
+    <tr>
+      <td>📧</td>
+      <td>juelide.erdogan@gmail.com</td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>+49 17621130156</td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/jülide-erdogan-0a3a0127b" target="_blank">LinkedIn</a></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🎓 Education
