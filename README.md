@@ -1,4 +1,5 @@
-<img src="juli.jpeg" alt="Profile Picture" width="250" style="vertical-align:middle; border-radius:50%;"> Jülide Erdoğan
+<img src="juli.jpeg" alt="Profile Picture" width="250" style="vertical-align:middle; border-radius:50%;">
+#Jülide Erdoğan
 
 
 📍 Cologne, Germany | 📧 juelide.erdogan@gmail.com  
