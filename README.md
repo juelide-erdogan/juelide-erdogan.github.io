@@ -6,7 +6,7 @@
 </div>
 
 <div style="text-align: center;">
-  <table style="margin: 0 auto; text-align: left;">
+  <table style="margin: 0 auto; text-align: center;">
     <tr>
       <td>📍</td>
       <td>Cologne, Germany</td>
