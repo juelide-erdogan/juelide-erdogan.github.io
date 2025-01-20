@@ -1,10 +1,8 @@
-#<img src="juli.jpeg" alt="Profile Picture" width="50" style="vertical-align:middle; border-radius:50%;"> Jülide Erdoğan
+<img src="juli.jpeg" alt="Profile Picture" width="250" style="vertical-align:middle; border-radius:50%;"> Jülide Erdoğan
 
 
-📍 Cologne, Germany
-📧 juelide.erdogan@gmail.com  
-📞 +49 17621130156  
-🌐 [LinkedIn](https://www.linkedin.com/in/jülide-erdogan-0a3a0127b)  
+📍 Cologne, Germany | 📧 juelide.erdogan@gmail.com  
+📞 +49 17621130156 | 🌐 [LinkedIn](https://www.linkedin.com/in/jülide-erdogan-0a3a0127b)  
 
 ---
 
@@ -28,6 +26,8 @@
 
 ## 🧠 Research Experience
 
+---
+
 ### MaRBLe Excellence Program (July 2023 – July 2024)  
 **Empirical Research for Bachelor Thesis** – Adelaide, Australia & Maastricht, Netherlands  
 *Grade: 8.5/10*  
@@ -42,6 +42,19 @@
 ---
 
 ## 💼 Professional Experience
+
+### **Deutsches Zentrum für Luft- und Raumfahrt** (January 2025 - Present)
+*Intern* - Cologne, Germany
+- Ongoing internship with the Department of Medicine @ DLR.
+
+### **Early Detection and Therapy Center for Mental Crises (FETZ), Uniklinik Köln** (October 2024 - November 2024)  
+*Intern* – Cologne, Germany
+
+- Observed psychologists during initial consultations with patients, focusing on early diagnostic assessments for psychosis detection.  
+- Participated in interdisciplinary case discussions involving psychologists and doctors to develop patient care strategies.  
+- Contributed to the **PRESCIENT** and **CARE** research projects at the **Kambeitz Lab**, aimed at improving prediction and prevention of psychiatric disorders like psychosis using advanced techniques such as machine learning and neuroimaging.  
+- Assisted with neurocognitive assessments and EEG procedures, ensuring accurate data collection and documentation.  
+- Gained valuable insights into the integration of clinical practice and research in mental health care.  
 
 ### **Soziale Dienstleistungen Becker (SDB)** (March 2023 – Present)  
 *Case Report Writer* – Cologne, Germany  
